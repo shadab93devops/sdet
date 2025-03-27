@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="sdetTestacse.sslcertificate"/>
+      <class name="sdetTestacse.Test5"/>
+      <class name="sdetTestacse.Test4"/>
+      <class name="sdetTestacse.Test1"/>
+      <class name="sdetTestacse.Stale"/>
+      <class name="sdetTestacse.Test3"/>
+      <class name="sdetTestacse.Test2"/>
+      <class name="sdetTestacse.VerifuyTitle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
